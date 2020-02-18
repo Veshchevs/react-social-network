@@ -1,0 +1,11 @@
+
+.item img {
+    width: 80px;
+    border-radius: 50px;
+    border: 5px olivedrab solid;
+    margin: 5px;
+}
+
+.item {
+    margin-top: 5px;
+}

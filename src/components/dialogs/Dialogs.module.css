@@ -1,0 +1,16 @@
+
+.item {
+    display: grid;
+    grid-template-columns: 3fr 10fr;
+    margin: 50px;
+    color: olivedrab;
+}
+
+.button {
+    border-radius: 3px;
+    margin-top: 20px;
+    background-color: darkgray;
+    color: white;
+    border: 2px olivedrab solid;
+
+}

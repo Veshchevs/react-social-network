@@ -1,0 +1,7 @@
+.wrapper {
+    display: grid;
+    grid-template-areas: "h h" "n c";
+    grid-template-rows: 100px 10fr;
+    grid-template-columns: 2fr 25fr;
+
+}

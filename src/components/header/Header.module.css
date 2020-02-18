@@ -1,0 +1,15 @@
+.item {
+    grid-area: h;
+    background-color: darkgray;
+    padding: 5px;
+    border: 2px dotted azure;
+
+}
+
+.item img {
+    width: 80px;
+}
+
+.login {
+    float: right;
+}

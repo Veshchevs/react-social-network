@@ -1,0 +1,17 @@
+.selectedPage {
+    font-weight: bold;
+    color: darkgray;
+}
+
+.paginator {
+    color: white;
+}
+
+.button {
+
+    border-radius: 4px;
+    margin: 20px;
+    background-color: darkgray;
+    color: white;
+    border: 2px olivedrab solid;
+}
